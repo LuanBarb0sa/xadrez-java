@@ -1,6 +1,6 @@
-<div align="center">
-  <a> ![Banner Readme Xadrez](https://github.com/LuanBarb0sa/utilities-files/blob/main/img/xadrez.PNG) </a>
-  </div>
+
+ ![Banner Readme Xadrez](https://github.com/LuanBarb0sa/utilities-files/blob/main/img/xadrez.PNG) 
+ <br>
 # 👷🏻 O Projeto
 Esse é um projeto desenvolvido com base nas aulas de Java Orientado a Objetos, do professor Nelio Alves. O programa é um jogo de xadrez com todas as funcionalidades de um jogo real.
 
